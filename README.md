@@ -1,3 +1,3 @@
-#duepay
-###Hostel dues payment system
+# duepay
+### Hostel dues payment system
 
